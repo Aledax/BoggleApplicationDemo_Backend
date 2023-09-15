@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "ip": "^1.1.8",
+    "mongodb": "^6.0.0",
+    "node-schedule": "^2.1.1"
+  }
+}
